@@ -101,7 +101,7 @@
       "name" : "Seeed Wio Link"
     }
   ],
-  "size" : "15762364",
+  "size" : "15762379",
   "toolsDependencies" : [
     {
       "packager" : "Espsynth86",
